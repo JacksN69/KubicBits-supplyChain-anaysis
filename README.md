@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is part of the KubicBits Data Analytics Challenge. The goal is to transform raw logistics datasets into actionable insights and 2025 forecasts to help optimize the supply chain for **Akola (FMCG)** and its transporter.
+The goal is to transform raw logistics datasets into actionable insights and 2025 forecasts to help optimize the supply chain for **Akola (FMCG)** and its transporter.
 
 We clean, explore, analyze, and forecast using structured approaches. Deliverables include KPIs, forecasting models, visual analytics, and strategic recommendations.
 
